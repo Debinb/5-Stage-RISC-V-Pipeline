@@ -6,3 +6,6 @@ An implementation of a 5 stage RISC-V pipeline using Xilinx Vivado aiming to opt
 - Data, Structural and Control Hazard Detection
 - Data Fowarding
 - 
+
+![Screenshot 2024-05-29 160845](https://github.com/Debinb/5-Stage-RISC-V-Pipeline/assets/96095584/cecd5dc9-b475-4111-b2f4-ad675f2082ac)
+![Screenshot 2024-05-29 160958](https://github.com/Debinb/5-Stage-RISC-V-Pipeline/assets/96095584/3e29a4c9-095c-4425-9223-ae5da89760de)
